@@ -522,7 +522,7 @@ h3.my-profession
     font-weight: 400;
     font-size: 14px;
     margin-bottom: 12px;
-    color: #bebbc9;
+    color: #666666;
 }
 .about .about-content .timeline .timeline-date .fa{
     margin-right: 5px;
@@ -538,7 +538,7 @@ h3.my-profession
     line-height: 25px;
     font-size: 16px;
     text-align: justify;
-    color: #bebbc9;
+    color: #666666;
 }
 /* services */
 .service .container{
