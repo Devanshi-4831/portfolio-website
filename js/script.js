@@ -4,9 +4,9 @@ var typed = new Typed(".typing", {
       "",
       "Web Developer",
       "Full-Stack Developer",
-      "Cyber Security Enthusiasts",
-      "Learn python",
-      "Learn DSA",
+      "MERN-Stack Developer",
+      "Front-End Developer",
+      
     ],
     typeSpeed: 100,
     BackSpeed: 60,
